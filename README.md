@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @gapilongo
 - 👀 I’m interested in Data Science
-- 🌱 I’m currently learning Data Science
+- 🌱 I’m currently learning Mlops
 - 💞️ I’m looking to collaborate on Data science projects
 - 📫 How to reach me nibniw@gmail.com
 
