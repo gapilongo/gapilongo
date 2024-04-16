@@ -5,7 +5,7 @@
 - 📫 How to reach me nibniw@gmail.com
 
 ## 📊 GitHub Stats
-![gapilongo's GitHub stats](https://github-readme-stats.vercel.app/api?username=gapilongo&show_icons=true) ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=gapilongo&theme=dark)  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gapilongo&layout=compact&theme=radical) 
+![gapilongo's GitHub stats](https://github-readme-stats.vercel.app/api?username=gapilongo&show_icons=true)  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gapilongo&layout=compact&theme=radical) 
 
 
 
