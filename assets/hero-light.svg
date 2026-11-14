@@ -1,0 +1,53 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 400" width="1000" height="400" role="img" aria-label="Ahmed Ghazouani. I build AI that works the security alert queue, and shows its evidence.">
+<title>Ahmed Ghazouani. I build AI that works the security alert queue, and shows its evidence.</title>
+<style>
+text{font-family:-apple-system,BlinkMacSystemFont,'Segoe UI','Noto Sans',Helvetica,Arial,sans-serif;fill:#16202b}
+.mono{font-family:ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'Liberation Mono',monospace;letter-spacing:.08em}
+.muted{fill:#5d6978}
+@keyframes flow{0%{transform:translateX(0);opacity:0}7%{opacity:1}86%{opacity:1}100%{transform:translateX(594px);opacity:0}}
+@keyframes hot{0%{transform:translateX(0);opacity:0}5%{opacity:1}88%{transform:translateX(864px);opacity:1}100%{transform:translateX(864px);opacity:1}}
+@keyframes ping{0%,86%{transform:scale(1);opacity:0}88%{transform:scale(1);opacity:.9}100%{transform:scale(2.1);opacity:0}}
+.d{animation:flow 7.0s linear infinite}
+.h{animation:hot 8.4s linear infinite}
+.ping{transform-origin:920px 288px;animation:ping 8.4s linear infinite}
+@media (prefers-reduced-motion:reduce){.d,.h,.ping{animation:none}.ping{opacity:0}}
+</style>
+<defs><pattern id="grid" width="24" height="24" patternUnits="userSpaceOnUse"><circle cx="2" cy="2" r="1" fill="#edf0f4"/></pattern></defs>
+<rect x=".5" y=".5" width="999" height="399" rx="16" fill="#ffffff" stroke="#d5dbe3"/>
+<rect x="1" y="1" width="998" height="398" rx="16" fill="url(#grid)"/>
+<text x="56" y="78" class="mono muted" font-size="14">AI FOR SECURITY OPERATIONS</text>
+<text x="56" y="146" font-size="62" font-weight="700" letter-spacing="-.02em">Ahmed Ghazouani</text>
+<text x="56" y="192" class="muted" font-size="24">I build AI that works the security alert queue, and shows its evidence.</text>
+<line x1="56" y1="244" x2="650" y2="244" stroke="#d5dbe3" stroke-width="1.5" stroke-linecap="round"/>
+<circle cx="650" cy="244" r="3.5" fill="#ffffff" stroke="#0f8577" stroke-width="1.5"/>
+<circle class="d" cx="56" cy="244" r="4" fill="#8c98a8" transform="translate(84 0)" style="animation-delay:-0.00s"/>
+<circle class="d" cx="56" cy="244" r="4" fill="#8c98a8" transform="translate(254 0)" style="animation-delay:-2.33s"/>
+<circle class="d" cx="56" cy="244" r="4" fill="#8c98a8" transform="translate(424 0)" style="animation-delay:-4.67s"/>
+<line x1="56" y1="266" x2="650" y2="266" stroke="#d5dbe3" stroke-width="1.5" stroke-linecap="round"/>
+<circle cx="650" cy="266" r="3.5" fill="#ffffff" stroke="#0f8577" stroke-width="1.5"/>
+<circle class="d" cx="56" cy="266" r="4" fill="#8c98a8" transform="translate(123 0)" style="animation-delay:-0.86s"/>
+<circle class="d" cx="56" cy="266" r="4" fill="#8c98a8" transform="translate(293 0)" style="animation-delay:-3.20s"/>
+<circle class="d" cx="56" cy="266" r="4" fill="#8c98a8" transform="translate(463 0)" style="animation-delay:-5.53s"/>
+<line x1="56" y1="288" x2="650" y2="288" stroke="#d5dbe3" stroke-width="1.5" stroke-linecap="round"/>
+<circle cx="650" cy="288" r="3.5" fill="#ffffff" stroke="#0f8577" stroke-width="1.5"/>
+<circle class="d" cx="56" cy="288" r="4" fill="#8c98a8" transform="translate(228 0)" style="animation-delay:-2.59s"/>
+<circle class="d" cx="56" cy="288" r="4" fill="#8c98a8" transform="translate(465 0)" style="animation-delay:-6.09s"/>
+<line x1="56" y1="310" x2="650" y2="310" stroke="#d5dbe3" stroke-width="1.5" stroke-linecap="round"/>
+<circle cx="650" cy="310" r="3.5" fill="#ffffff" stroke="#0f8577" stroke-width="1.5"/>
+<circle class="d" cx="56" cy="310" r="4" fill="#8c98a8" transform="translate(117 0)" style="animation-delay:-0.26s"/>
+<circle class="d" cx="56" cy="310" r="4" fill="#8c98a8" transform="translate(286 0)" style="animation-delay:-2.59s"/>
+<circle class="d" cx="56" cy="310" r="4" fill="#8c98a8" transform="translate(456 0)" style="animation-delay:-4.92s"/>
+<line x1="56" y1="332" x2="650" y2="332" stroke="#d5dbe3" stroke-width="1.5" stroke-linecap="round"/>
+<circle cx="650" cy="332" r="3.5" fill="#ffffff" stroke="#0f8577" stroke-width="1.5"/>
+<circle class="d" cx="56" cy="332" r="4" fill="#8c98a8" transform="translate(156 0)" style="animation-delay:-1.12s"/>
+<circle class="d" cx="56" cy="332" r="4" fill="#8c98a8" transform="translate(325 0)" style="animation-delay:-3.45s"/>
+<circle class="d" cx="56" cy="332" r="4" fill="#8c98a8" transform="translate(495 0)" style="animation-delay:-5.79s"/>
+<line x1="650" y1="288" x2="906" y2="288" stroke="#c26a00" stroke-width="1.5" stroke-linecap="round" opacity=".55"/>
+<circle class="ping" cx="920" cy="288" r="10" fill="none" stroke="#c26a00" stroke-width="1.5"/>
+<circle cx="920" cy="288" r="10" fill="none" stroke="#c26a00" stroke-width="1.5"/>
+<circle class="h" cx="56" cy="288" r="5" fill="#c26a00" transform="translate(864 0)"/>
+<line x1="650" y1="230" x2="650" y2="346" stroke="#0f8577" stroke-width="1.5" stroke-linecap="round" opacity=".5"/>
+<text x="56" y="372" class="mono muted" font-size="13">ALERTS IN</text>
+<text x="650" y="372" class="mono" font-size="13" text-anchor="middle" style="fill:#0f8577">CLOSED, WITH EVIDENCE</text>
+<text x="944" y="372" class="mono" font-size="13" text-anchor="end" style="fill:#c26a00">TO A PERSON</text>
+</svg>
